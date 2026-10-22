@@ -1,0 +1,13 @@
+# Never commit patient-level or sequencing data
+data/*
+!data/README.md
+results/
+*.bam
+*.bai
+*.cram
+*.fastq*
+*.vcf
+*.vcf.gz
+*.xlsx
+__pycache__/
+.DS_Store

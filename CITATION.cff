@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Analysis code: somatic LINE-1 and Alu retrotransposition in lung tumors and adjacent normal tissue"
+authors:
+  - family-names: Jacob-Hirsch
+    given-names: Jasmine
+  - family-names: Eyal
+    given-names: Eran
+license: MIT
+preferred-citation:
+  type: article
+  title: "Whole-Genome Sequencing Reveals Somatic LINE-1 and Alu Retrotransposition Extending Beyond Lung Tumors into Adjacent Normal Tissue"
+  authors:
+    - family-names: Jacob-Hirsch
+      given-names: Jasmine
+    - family-names: Eyal
+      given-names: Eran
+  journal: "Genes"
+  year: 2026
